@@ -1,8 +1,8 @@
 title: WordPress Self-Help  
 email: contact@leapsparkagency.com
 description:
-baseurl: ""
-url: "https://leap-spark.github.io/wordpress-self-help/"
+baseurl: "https://leap-spark.github.io"
+url: "/wordpress-self-help/"
 
 # Social
 githubUsername:
